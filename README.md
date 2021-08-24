@@ -8,7 +8,7 @@ The ``notebook'' uses the python programming language. The different bits are or
 The hope here is to provide both some basic rationales and code with which to start off any exploration, and I use a mix of real and synthetic toy data towards this.
 
 
-Maike Sonnewald and Redouane Lguensat. Revealing the impact of global heating on north atlantic circulation using transparent machine learning. JEMAS, 2021,  https://doi.org/10.1029/2021MS002496
+Maike Sonnewald and Redouane Lguensat. Revealing the impact of global heating on north atlantic circulation using transparent machine learning. JAMES, 2021,  https://doi.org/10.1029/2021MS002496
 
 Maike Sonnewald, Carl Wunsch, and Patrick Heimbach. Unsupervised learning reveals geography of global ocean dynamical regions. Earth and Space Science, 6(5):784–794, 2019.
 
